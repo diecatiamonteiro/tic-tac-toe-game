@@ -39,14 +39,17 @@ This is a simple, interactive, terminal-based Tic-Tac-Toe game built using Node.
 #### Intro and player selection
 
 ![Game Intro Player Selection](/game-screenshots/player-selection.png)
+<br><br>
 
 #### Player vs. Player & Winning Scenario
 
 ![Game Player 1 vs Player 2](/game-screenshots/player-vs-player.png)
+<br><br>
 
 #### Player  vs. AI
 
 ![Game Player 1 vs AI](/game-screenshots/player-vs-ai.png)
+<br><br>
 
 
 # Thanks for reading. I hope you enjoy the game!
