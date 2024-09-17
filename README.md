@@ -21,7 +21,7 @@ This is a simple, interactive, terminal-based Tic-Tac-Toe game built using Node.
 ## Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-game.git
+   git clone git@github.com:diecatiamonteiro/tic-tac-toe-game.git
    ```
 
 2. **Install dependencies**:
